@@ -1,0 +1,16 @@
+{
+  "region": "Ahmedabad",
+  "keywords": [
+    "technology",
+    "business"
+  ],
+  "category": "general",
+  "language": "en",
+  "timezone": "Asia/Kolkata",
+  "engagement_score": 80,
+  "max_posts_per_run": 2,
+  "enable_ig": true,
+  "enable_x": true,
+  "enable_tts": false,
+  "remove_background": false
+}

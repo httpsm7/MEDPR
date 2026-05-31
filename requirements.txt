@@ -1,0 +1,18 @@
+# MEDPR Requirements
+# Install with: pip install -r requirements.txt
+
+# HTTP
+requests>=2.31.0
+requests-oauthlib>=1.3.1
+
+# TTS fallback (offline)
+pyttsx3>=2.90
+
+# Timezone support (Python 3.9+)
+tzdata>=2024.1
+
+# Optional: Cloudinary SDK (MEDPR uses raw API, but SDK is handy)
+# cloudinary>=1.36.0
+
+# Optional: test / dev
+# pytest>=7.0
